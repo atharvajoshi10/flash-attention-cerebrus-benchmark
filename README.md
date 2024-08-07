@@ -1,1 +1,1 @@
-# flash-attention-cerebrus-benchmark
+# Flash Attention vs Cerebrus CS 2 Benchmark
